@@ -1,0 +1,10 @@
+##  ID: 204P
+##  Num Copies: 1
+##  Domains: PIN
+##  Average Hit Length: 138.0
+##  Average HMMER score: 47.3
+##  Average Delta: 36.0
+##  Average Partner Length: 64.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5299_7#8,4H,PIN,47.3,downstream,ERS012053|SC|contig000071,+,64,36.0,2357.0,2549.0,138,1905,2321,MNAEHFWLSEKLGRTPFSVAFQIAAIRALQDGWEEQFREISDQIRLSGLSISDYLKQNGADLNA,MKKTWMLDTNICSFIMREQPAAVLKRLEQAALRGDRIVVSAVTYAEMRFGATGPKASPRHIQLVDAFCARLDTILPWDRAAVDATTDIRVALRLAGTPIGPNDTAIAGHAIAAGAVLVTNNVREFARVPGLVLEDWVK,both

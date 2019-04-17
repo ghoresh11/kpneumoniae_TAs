@@ -1,0 +1,8 @@
+##  ID: 93UNFIT(85H)
+##  Num Copies: 1
+##  Domains: HicA_toxin
+##  Average Hit Length: 62.0
+##  Average HMMER score: 57.0
+## Reasons: No adjacent downstream ORF,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5235_5#6,93,85H,HicA_toxin,57.0,ERS012015|SC|contig000309,-,62,2,188,MKSADLLKELMAAGCELKRHNGGSHQIWWSPITGKTFPVPHPKKDLPLGTVRSIRKLAGGLF,No adjacent downstream ORF,Upstream length

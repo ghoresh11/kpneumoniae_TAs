@@ -1,0 +1,10 @@
+##  ID: 201P
+##  Num Copies: 1
+##  Domains: Fic
+##  Average Hit Length: 118.0
+##  Average HMMER score: 25.5
+##  Average Delta: 4.0
+##  Average Partner Length: 85.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5193_8#7,64H,Fic,25.5,downstream,ERS011908|SC|contig000001,+,85,4.0,58854.0,59109.0,118,58494,58850,MNELQLIEAIAVTHVELILIHPFREGNGRLSRLLADVMAVQAGYKPLDYQSWEQNKTQYISAIHAGLTLDYRPMKHWVSKALRRD,MNRYTVAGSEGQFEKNSDERVLANKLGIADANEIDSVELVLLEQLYRSVFEEHFPTGLLSVDILKKWHYRWLGNIYAWAGQERTVNISKGDFMFAPSAQLAKLLNDFDKKYLAHYTPC,both

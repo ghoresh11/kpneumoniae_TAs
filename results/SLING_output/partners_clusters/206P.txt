@@ -1,0 +1,10 @@
+##  ID: 206P
+##  Num Copies: 1
+##  Domains: HicA_toxin
+##  Average Hit Length: 65.0
+##  Average HMMER score: 35.4
+##  Average Delta: 4.0
+##  Average Partner Length: 85.0
+##  Order: Upstream: 1 Downstream: 0
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5151_5#10,121H,HicA_toxin,35.4,upstream,ERS011947|SC|contig000279,+,85,4.0,1345.0,1602.0,65,1606,1801,MRESAVVMFSRPFDVNVCHDHEDNVWVAQCDALGLVTEAATYEELTERVWEIAPELYVMNGLGSNPARISLSFNQEQSYSDRIAL,MGTGLYPKLTELLSAAGCYFERQGKGSHEIWFSPISNRNFSVPYTIVSRHTANGILKQAGLPKNF,sixframe

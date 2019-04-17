@@ -1,0 +1,7 @@
+%  ID: 124H
+%  Num_Strains: 1
+%  Domains: YdaT_toxin
+%  Average Hit Length: 180.0
+%  Average HMMER score: 121.5
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5193_6#1,114P,-,YdaT_toxin,121.5,ERS011854|SC|contig000006,+,180,100174,100716,73,31.0,99922.0,100143.0,0,,,,MQSLAYQHNTGIHPGAMINRAQSKAAPDHDKIRDAVRAWSSALDNQDVVSALIINEYREQGGTAISFPEDISRARQKLFRFLDNRFDSEQYRENVRQLTPAIMAVLPLEFRNRLAPKNDTMSLIASAMKECAEAKQAVLLDAPEHQKLKEVSEGIASLFRLMPEQVGPLMTMVTSMLGVM,METISQRLKQKREEMNLSQDQLARLAGMKQQSLQAIEAGTTKRPRYLVELARALKCEPEWLLFGDEPNKTTAA,,both

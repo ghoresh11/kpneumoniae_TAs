@@ -1,0 +1,10 @@
+##  ID: 127P
+##  Num Copies: 1
+##  Domains: ParE_toxin
+##  Average Hit Length: 72.0
+##  Average HMMER score: 26.6
+##  Average Delta: 41.0
+##  Average Partner Length: 140.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5151_6#4,26H,ParE_toxin,26.6,downstream,ERS011953|SC|contig000006,+,140,41.0,137010.0,137430.0,72,136751,136969,MRKIPNMTIQYIKDEEGKDQYVVIPYSDYFRMRLALLEYDDEDESDWEDIPYESDIYDNVMLPGEVCDVMHKENVSLQAAWRILRGMSQQEVAEKLGISQSAVSQLEALDSRPQKRTREKLAAIYGCTQEQISLYLPKEG,MKIVWSKTADKQFSKIDTRYKSRIKSRLEKMDDKASPISDIKKLSSPENHYRLRLGDYRVIYTFGDPPGDTC,both

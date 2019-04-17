@@ -1,0 +1,10 @@
+##  ID: 235P
+##  Num Copies: 1
+##  Domains: HigB-like_toxin
+##  Average Hit Length: 99.0
+##  Average HMMER score: 86.1
+##  Average Delta: 8.0
+##  Average Partner Length: 102.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5235_6#6,76H,HigB-like_toxin,86.1,downstream,ERS012027|SC|contig000179,-,102,8.0,4628.0,4934.0,99,4942,5241,MDTITAEPTTVGEMLSEEFLKPLNITQAELALVMGVSRKVIGQIINNSRRISVAEASQLAVLFQTDEDFWINLQAAHDRWESRNIIANNHFRPIQDLLAEAG,MIGSFKDGQNGELAAFYVHGTRSAQIPAIIEKPLRRKLSLLAAASSEKSLFSPPGNNYERLQGNLAGWSSIRVSIQWRLIFRWRDGHAYDIYLDPHKYR,both

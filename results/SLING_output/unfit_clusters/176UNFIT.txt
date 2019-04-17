@@ -1,0 +1,8 @@
+##  ID: 176UNFIT
+##  Num Copies: 1
+##  Domains: Phage_pRha
+##  Average Hit Length: 183.0
+##  Average HMMER score: 74.5
+## Reasons: No adjacent downstream ORF,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_6#10,176UNFIT,-,Phage_pRha,74.5,ERS011863|SC|contig000049,-,183,8437,8988,MQYPTVINGFDFRELIFLSGTDSATDTFKVAKAFRKEHKDVMRKTRKVICSCSPEFAERNFTLCHENNELQNGKPQPFYRMTRNGWTMLVFSFTGAAAFAFKEAYIAAFDWMADMLAQGARNLESERNAVMLEYMKEKDVASMSGRLLRRWGKEKKPHLLSRIENLDKQGQLCLPGFVNARPE,No adjacent downstream ORF,Upstream length

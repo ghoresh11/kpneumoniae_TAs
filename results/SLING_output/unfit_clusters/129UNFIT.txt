@@ -1,0 +1,8 @@
+##  ID: 129UNFIT
+##  Num Copies: 1
+##  Domains: DUF955
+##  Average Hit Length: 165.0
+##  Average HMMER score: 64.1
+## Reasons: Downstream length,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5299_1#2,129UNFIT,-,DUF955,64.1,ERS011963|SC|contig000132,-,165,8943,9438,MNHSQEWERLPIEKKEVIIKYHSQYPVKLGALAKELGLVVKLATLPANISGEIKDCDGVVTIRVNQHDMQARRRYTLAHEIAHFLLHRHLLRDGITDDVLYRSSQSSQIEAEANRLAADIIMPMHQVDECYARHFKGKKDAVLYEAIAKDLDVSTIALKYRLGVN,Downstream length,Upstream length

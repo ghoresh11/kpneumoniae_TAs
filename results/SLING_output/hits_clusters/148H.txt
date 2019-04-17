@@ -1,0 +1,7 @@
+%  ID: 148H
+%  Num_Strains: 1
+%  Domains: PemK_toxin
+%  Average Hit Length: 127.0
+%  Average HMMER score: 63.5
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5150_3#6,-,239P,PemK_toxin,63.5,ERS005770|SC|contig000626,-,127,371,752,0,,,,86,41.0,72.0,330.0,MLTFQPKPNTIVMCDFSGFISPEMVKKRPVIVIKKSKDNPKLVTIVPFSTTEPHEVSELHVAVEGPLDGKPAWVKCDMITTVCLERLDRFRITEGNTRKWGTKSVDEPTFDLICKGVAKYLSLAHNG,,MSQYLHSSDDKLVNTVLGTPSGVPCLLQDFFANCIGSEGIILPTSIKFGITWNKLPNSHFMMISITPITIYPCSLKPIKCFTASVM,sixframe

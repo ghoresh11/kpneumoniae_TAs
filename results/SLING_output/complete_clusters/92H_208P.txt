@@ -1,0 +1,2 @@
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5193_2#3,-,208P,HigB-like_toxin,61.3,ERS011808|SC|contig000039,+,93,2877,3158,0,,,,74,40.0,3198.0,3420.0,MIKNIKHKGLRSFAEDGSTAGIQPHLAKKLRMILATLSTATCLQDIVDVRALGCHPLKGDRKGEFSVEVNGNWRVVFKVEEPNVLDVDLEDYH,,MDGLGTLFKKKVPLEDFMRAFMILLFPLLCVVIAGVLAVRDLNGWGWFLFVAVLCTGADTVQKHVSSKNNSISD,both

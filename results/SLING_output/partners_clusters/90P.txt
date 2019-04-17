@@ -1,0 +1,10 @@
+##  ID: 90P
+##  Num Copies: 1
+##  Domains: YafO_toxin
+##  Average Hit Length: 155.0
+##  Average HMMER score: 41.6
+##  Average Delta: -13.0
+##  Average Partner Length: 52.0
+##  Order: Upstream: 1 Downstream: 0
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5235_8#8,95H,YafO_toxin,41.6,upstream,ERS011790|SC|contig000054,-,52,-13.0,2188.0,2344.0,155,1736,2201,MEDGMTQKRERRTSDKQRQTVRRSAEYKARLSAASAMLAEKMEEKRNAWVSK,MGFKISRSQALIEVITQHPITELPIEEFEQYKRECIEFDDTPAPAIHVQLEYPAHLDTIGRDKLMERPVEARGEELHHVHIWQEGCCWEDGDGLFVQWASTSDSYVVYSYFVDRDNDHHFYVIDYCNDKAHVLIEDQHQVAEWTRQAKEFRLQNI,sixframe

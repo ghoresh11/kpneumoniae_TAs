@@ -1,0 +1,7 @@
+%  ID: 145H
+%  Num_Strains: 1
+%  Domains: ParE_toxin
+%  Average Hit Length: 87.0
+%  Average HMMER score: 23.1
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5235_3#7,228P,-,ParE_toxin,23.1,ERS012004|SC|contig000172,-,87,424,687,131,12.0,699.0,1092.0,0,,,,MTSKVLWADKALSDRETIFESNDKVSGLSYAKSEDAKIKRAVSTIKRNNKVGRNDLDVRGYVYVLPKRYKILYRLTDEHIFIERVFY,MAFVSQVDKSRAASSRIGDSSIVVTQSYKASTKAQELSIRLTSLVLSKGGMKIGDHVDVLYDKDSDRWMLRKMDGGLKITGKDDAPTGLIRYTLKDTHARFTEEKEHLPIRKSSIEDSLEIEDGQIIFKLD,,both

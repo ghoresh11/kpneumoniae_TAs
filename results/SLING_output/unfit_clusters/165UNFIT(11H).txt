@@ -1,0 +1,9 @@
+##  ID: 165UNFIT(11H)
+##  Num Copies: 2
+##  Domains: Cpta_toxin
+##  Average Hit Length: 42.0
+##  Average HMMER score: 39.1
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5235_1#2,165,11H,Cpta_toxin,39.1,ERS011975|SC|contig000226,-,42,3830,3956,MLLRLRHVDTRRGQHLWLAADSMDAGEWRDLRRLVLQKPAQE,No adjacent downstream ORF,No adjacent upstream ORF
+5235_5#6,165,11H,Cpta_toxin,39.1,ERS012015|SC|contig000191,+,42,7419,7545,MLLRLRHVDTRRGQHLWLAADSMDAGEWRDLRRLVLQKPAQE,No adjacent upstream ORF,No adjacent downstream ORF

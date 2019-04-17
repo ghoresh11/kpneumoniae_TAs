@@ -1,0 +1,10 @@
+##  ID: 56P
+##  Num Copies: 1
+##  Domains: Gp49
+##  Average Hit Length: 117.0
+##  Average HMMER score: 76.6
+##  Average Delta: 5.0
+##  Average Partner Length: 100.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5150_1#8,58H,Gp49,76.6,downstream,ERS005748|SC|contig000219,-,100,5.0,7170.0,7472.0,117,7477,7830,MGRTLEQLLIDEKPDVVAEAQAIAKDILLNIHLAELREKVQKTQVEMAQNLGIKQPTVAGMEKPGRDLKLSTLKRYVEAAGGKLRLDVELPDGSHYEFVL,VWTIKTTDMFDRWFTSLNDIDRASVLAALLVLREKGPGLSRPYADTIRGSRYSNMKELRVQSRGDPIRAFFAFDPARTGIVLCAGNKVGNEKRFYHEMLAVADREFTNWLNRLKEKE,both

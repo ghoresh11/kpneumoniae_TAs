@@ -1,0 +1,10 @@
+##  ID: 125P
+##  Num Copies: 1
+##  Domains: HigB_toxin
+##  Average Hit Length: 95.0
+##  Average HMMER score: 98.0
+##  Average Delta: 42.0
+##  Average Partner Length: 51.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5235_7#8,108H,HigB_toxin,98.0,downstream,ERS012041|SC|contig000127,-,51,42.0,7034.0,7187.0,95,7229,7514,MLQLWQDSLNWHLGTCSPAPKILTNSSCLACSSSTMSRESFLWINLTQSRP,MKVLNVEKLHSFSRKHNQAKGALDSWYDEVKRDEWKTSQDIRDRYNSVSFLHDNIVIFNIKGNNYRLVVEVIYQAGIVIIERVGTHAEYDRWRLK,sixframe

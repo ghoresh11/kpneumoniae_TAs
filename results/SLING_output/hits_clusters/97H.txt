@@ -1,0 +1,7 @@
+%  ID: 97H
+%  Num_Strains: 1
+%  Domains: Fic
+%  Average Hit Length: 161.0
+%  Average HMMER score: 39.9
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5150_2#3,82P,-,Fic,39.9,ERS005756|SC|contig000007,-,161,17553,18038,59,10.0,18048.0,18227.0,0,,,,MAEYVEGVNYLSVEDLVYINRRLIETQTPNEPIEVLSEGNLSSSQARPSMIRWYRQTDDMFVLSASLIESLIQNHPFANANKRTAMMAGYIFLLLNGYELTAPGDDLVTMAEGLARKEYDVDDLENWLCHWSREYDARELCVNHSVNVIEVICSQQVILNK,MSHALKKADRLYIPPRDKSTVAKPRAAISETCSHTGQVKNAFDFGFSRYEKAMEDLSKV,,both

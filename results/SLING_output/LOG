@@ -1,0 +1,18 @@
+
+########## SLING  ########## 
+##########STEP 4 : GROUP ORFs########## 
+ SLING version: 1.1
+Time : 2018-05-10 14:30:10
+### PARAMS ###
+min_identity : 75
+out_dir : /lustre/scratch118/infgen/team216/gh11/klebsiella
+report_unfit : True
+save_to_ITOL : True
+req : toxins
+blastp : BLAST-2.7.0+
+makeblastdb : BLAST-2.7.0+
+filter_id : newFilter
+min_blast_evalue : 0.01
+group_id : newGroup
+sep : ,
+order : either

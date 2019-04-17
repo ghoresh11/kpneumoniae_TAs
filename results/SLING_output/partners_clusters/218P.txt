@@ -1,0 +1,10 @@
+##  ID: 218P
+##  Num Copies: 1
+##  Domains: YdaT_toxin
+##  Average Hit Length: 148.0
+##  Average HMMER score: 76.4
+##  Average Delta: 23.0
+##  Average Partner Length: 72.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5151_3#5,56H,YdaT_toxin,76.4,downstream,ERS011930|SC|contig000007,+,72,23.0,38998.0,39214.0,148,38529,38975,MQTTTDRITWRNGFRLNGEPAFMCDVQEIFEERLTAKKWELYELRKAELREENLTPKEYENACRQLADMLGI,VENLEELKREIFSWAAESGQELVAIEISRMWFRLGGNTGVLKLHQIEDADGNADWRAINNNRQQIFRWLRGETKAARTKTQTLAKAMEAALPAERYARLDMSTQYLICVAIREFAAAIIALLLEARDGPQQVAKALQAMRETQRLTSV,both

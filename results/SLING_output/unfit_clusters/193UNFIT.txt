@@ -1,0 +1,8 @@
+##  ID: 193UNFIT
+##  Num Copies: 1
+##  Domains: HigB_toxin
+##  Average Hit Length: 111.0
+##  Average HMMER score: 36.6
+## Reasons: Downstream length,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5235_2#1,193UNFIT,-,HigB_toxin,36.6,ERS011986|SC|contig000492,-,111,495,828,MTVHAQWKVGLKLWLDVFDKQSLIFESFSQLRDVWLSKSGWNVDRIPCSLLKAESKKGPLDIYVFDIHKNQCRVVVWLNPKSGTFFVKDVCSHAEYDRWWRGQTKSQRSKG,Downstream length,No adjacent upstream ORF

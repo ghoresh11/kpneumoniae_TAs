@@ -1,0 +1,10 @@
+##  ID: 212P
+##  Num Copies: 1
+##  Domains: PIN
+##  Average Hit Length: 52.0
+##  Average HMMER score: 23.3
+##  Average Delta: 16.0
+##  Average Partner Length: 69.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5150_1#8,21H,PIN,23.3,downstream,ERS005748|SC|contig000122,+,69,16.0,1744.0,1951.0,52,1570,1728,MALSTFNIINISQDIAERSVALRQEYKLKLPDAIILATAQLHRLELITRNTKDFAGIPGVVTPYEIHPE,MTSGSALFDTNILIDLFSGRREAKQALEAWPPQNAISLITWMEVMVGAKKYH,both

@@ -1,0 +1,8 @@
+##  ID: 136UNFIT(29H)
+##  Num Copies: 1
+##  Domains: YdaT_toxin
+##  Average Hit Length: 67.0
+##  Average HMMER score: 29.8
+## Reasons: Downstream length,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_7#10,136,29H,YdaT_toxin,29.8,ERS011887|SC|contig000086,+,67,102,303,MLLPAILTVLPSELSARLVLANSMEYRALQMAKEAVNEAAEAYVAATVVDVVSQLNGVPDFVPQVLH,No adjacent upstream ORF,Downstream length

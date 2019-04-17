@@ -1,0 +1,8 @@
+##  ID: 85UNFIT
+##  Num Copies: 1
+##  Domains: YafO_toxin
+##  Average Hit Length: 138.0
+##  Average HMMER score: 86.5
+## Reasons: No adjacent downstream ORF,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_8#8,85UNFIT,-,YafO_toxin,86.5,ERS011909|SC|contig000019,-,138,38700,39116,MAVTAEYSSETWAEFFEPTFNEFPELRDQLVKEFITYKQTGSPSDLLGRDAPFDFPTFASDANVHHIHLNLRYERTWTERQANFHRTSNHYLVYTEHMWDSGRYLLMGVVTPAHEKMPANNNQLLSYFAEVAERFHSS,No adjacent downstream ORF,Upstream length

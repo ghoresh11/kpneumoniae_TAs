@@ -1,0 +1,10 @@
+##  ID: 209P
+##  Num Copies: 1
+##  Domains: HigB-like_toxin
+##  Average Hit Length: 103.0
+##  Average HMMER score: 47.6
+##  Average Delta: 11.0
+##  Average Partner Length: 111.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5151_5#1,41H,HigB-like_toxin,47.6,downstream,ERS011938|SC|contig000011,+,111,11.0,21144.0,21479.0,103,20822,21133,MQHCTARPNDEVRAIDLFTSLGREGVQFRLDSLAILAASRWEQALPLPPDYTGTPIDFLSDAEREERHILLTGQMLCIDEIAEARERIKQRIASRKKLCGTRNADSHIESV,MIHSFEEKNLEKLFKSGKSQSGLPTDITNSLKRALEELHNAASEADLIRLKSRNYEKIHHTRLRERERAGDMSSIRVSSKYRLLFTWADGGANRVKLTAHAHA,both

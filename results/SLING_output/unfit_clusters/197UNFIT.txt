@@ -1,0 +1,8 @@
+##  ID: 197UNFIT
+##  Num Copies: 1
+##  Domains: Fic
+##  Average Hit Length: 80.0
+##  Average HMMER score: 29.9
+## Reasons: ,hit length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5235_1#4,197UNFIT,-,Fic,29.9,ERS011977|SC|contig000442,+,80,2091,2331,MARLDLVSYLAECHVEFILNHPFREGNGHLSRLLSYVLSVLAGEDLLHHSLWKSTRHFTSRQYKQVSQSEMSPGNTGDIL,hit length,

@@ -1,0 +1,10 @@
+##  ID: 172P
+##  Num Copies: 1
+##  Domains: HicA_toxin
+##  Average Hit Length: 60.0
+##  Average HMMER score: 59.1
+##  Average Delta: 26.0
+##  Average Partner Length: 147.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5193_5#6,85H,HicA_toxin,59.1,downstream,ERS011847|SC|contig000075,+,147,26.0,6030.0,6471.0,60,5822,6004,MFFSVGIESPVNSDTAYGISVPAFDRFDYGCVSAADEQSDIPVMAREAILMVVEEMLLSGKHSVEDITDAGFMVYSANADYAHCDYWVMIDVDLSQFEGKQQRLNITLPDVLVKRIDGFIQGNKAVYRDRSHFLAQAARHELTQKNT,MKSADLLKELMAAGCELKRHNGGSHQIWWSPITGKTFPVPHPKKDLPLGTVRSIRKLAGI,both

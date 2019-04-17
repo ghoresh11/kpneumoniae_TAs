@@ -1,0 +1,8 @@
+##  ID: 191UNFIT
+##  Num Copies: 1
+##  Domains: CbtA_toxin
+##  Average Hit Length: 88.0
+##  Average HMMER score: 137.6
+## Reasons: Upstream length,No adjacent downstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5299_1#8,191UNFIT,-,CbtA_toxin,137.6,ERS011969|SC|contig000063,+,88,1106,1370,MKFVLLNTQLLEQHYALTLNDTPFCDETFIQEHIDAGIILANAINILVEKYKLVRIDRRGFCWQEQTPYLTIIDIMRARRDLGLMNRN,Upstream length,No adjacent downstream ORF

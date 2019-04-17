@@ -1,0 +1,10 @@
+##  ID: 237P
+##  Num Copies: 1
+##  Domains: CbtA_toxin
+##  Average Hit Length: 127.0
+##  Average HMMER score: 161.1
+##  Average Delta: 19.0
+##  Average Partner Length: 77.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5235_2#4,70H,CbtA_toxin,161.1,downstream,ERS011989|SC|contig000082,-,77,19.0,6352.0,6583.0,127,6602,6985,MTTAPSAISPSGASTTTGASIRSPSADTDVRSDNAYGGNTLTEISVCSRRGCGRTPPEHQGPYHLPGESLIPGRSVK,MQTMQIHSLSLQRAASPRLSSVEIWRKLLKYLLKQHYGLMLNDTPFGNGEVIQKHIDAGISQCDAVNFIVEKYNLVRTDRHGFSVKEQSPFIGSIDMLRARNATGPMTRKGYKTVTDITGGRFSGER,both

@@ -1,0 +1,8 @@
+##  ID: 199UNFIT
+##  Num Copies: 1
+##  Domains: Gp49
+##  Average Hit Length: 109.0
+##  Average HMMER score: 42.5
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_2#9,199UNFIT,-,Gp49,42.5,ERS011922|SC|contig000063,+,109,45,372,MKPVVYVGGSQKSLTGQKVFPKSLEDEVAVEINRLQYGLSPLRKTKAMNGLGQGVIEWVKNGKPAYRMVYVVGKKAVYVLHAFSKTSDGTPKSEEDTIKLRYKMLPKDF,No adjacent upstream ORF,No adjacent downstream ORF

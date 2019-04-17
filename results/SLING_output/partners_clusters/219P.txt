@@ -1,0 +1,10 @@
+##  ID: 219P
+##  Num Copies: 1
+##  Domains: DUF488
+##  Average Hit Length: 77.0
+##  Average HMMER score: 32.1
+##  Average Delta: 6.0
+##  Average Partner Length: 69.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5299_7#5,128H,DUF488,32.1,downstream,ERS012050|SC|contig000064,-,69,6.0,2429.0,2636.0,77,2642,2875,MHVNYAVNISLITATEDLLQNIWQENGLMSVSSIYIVMLALTYLFFSTIWGSIKRSDPPARSGLPCRLH,MDVRLNNRSQLAGFAKRDDLKYFARTLCGMDYEHWPDHAPTREMFEQYKLNNGCWDTYAADFINLITQRQIEHLIKK,both

@@ -1,0 +1,7 @@
+%  ID: 121H
+%  Num_Strains: 1
+%  Domains: HicA_toxin
+%  Average Hit Length: 65.0
+%  Average HMMER score: 35.4
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5151_5#10,206P,-,HicA_toxin,35.4,ERS011947|SC|contig000279,+,65,1606,1801,85,4.0,1345.0,1602.0,0,,,,MGTGLYPKLTELLSAAGCYFERQGKGSHEIWFSPISNRNFSVPYTIVSRHTANGILKQAGLPKNF,MRESAVVMFSRPFDVNVCHDHEDNVWVAQCDALGLVTEAATYEELTERVWEIAPELYVMNGLGSNPARISLSFNQEQSYSDRIAL,,sixframe

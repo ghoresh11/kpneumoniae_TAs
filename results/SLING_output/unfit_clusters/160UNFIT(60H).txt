@@ -1,0 +1,8 @@
+##  ID: 160UNFIT(60H)
+##  Num Copies: 1
+##  Domains: Couple_hipA
+##  Average Hit Length: 106.0
+##  Average HMMER score: 49.9
+## Reasons: ,hit length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_5#1,160,60H,Couple_hipA,49.9,ERS011938|SC|contig000381,+,106,2987,3307,MVRKQQRLAIWMNGIQVGFWEKSKGDDSLRYLPGWVADEQGRPLSLSLPFTPGNQVWHGNVVRDYFDNLLPDSEGIRRRLAMRYQADSLEPFDCMGPPHIAIFTLT,hit length,

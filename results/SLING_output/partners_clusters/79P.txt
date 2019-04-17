@@ -1,0 +1,10 @@
+##  ID: 79P
+##  Num Copies: 1
+##  Domains: ParE_toxin
+##  Average Hit Length: 71.0
+##  Average HMMER score: 27.3
+##  Average Delta: 29.0
+##  Average Partner Length: 62.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5150_2#1,62H,ParE_toxin,27.3,downstream,ERS005752|SC|contig000109,+,62,29.0,9581.0,9767.0,71,9337,9552,MASVYISCPSCSATDGVVRNGKSTAGHQRYLCSHCRKTWQLQFTYTASQPGTHQKIIDMAMN,MTYKLAFNESALKEWKKLGHTLQVQFKKKLKERLENPRVPASQLHGRKDQYKIKLRGAGYRLVGDAANLLI,both

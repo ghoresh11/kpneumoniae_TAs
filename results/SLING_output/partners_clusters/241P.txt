@@ -1,0 +1,10 @@
+##  ID: 241P
+##  Num Copies: 1
+##  Domains: HicA_toxin
+##  Average Hit Length: 83.0
+##  Average HMMER score: 35.9
+##  Average Delta: 13.0
+##  Average Partner Length: 54.0
+##  Order: Upstream: 1 Downstream: 0
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5299_1#1,104H,HicA_toxin,35.9,upstream,ERS011962|SC|contig000002,+,54,13.0,36108.0,36270.0,83,36283,36532,MTRTLMRLELSGATTVACCIHYIGITGHKVAYCTTNFASPCSGSKCQEVASCTV,MFILYLMGVNKNVYTCLKLNRQEEEVKQSELRRWLAAQGAEFKDGTNHLKIYLNGKQTVMPRHPGKEIPEPLRKAILKQLGIK,sixframe

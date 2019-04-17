@@ -1,0 +1,8 @@
+##  ID: 189UNFIT(139H)
+##  Num Copies: 1
+##  Domains: YafO_toxin
+##  Average Hit Length: 138.0
+##  Average HMMER score: 73.9
+## Reasons: No adjacent downstream ORF,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_7#8,189,139H,YafO_toxin,73.9,ERS011885|SC|contig000013,-,138,111370,111786,MALIVEFNPDTRAEFLEPTFKQHPDFEEQLKAEFIYCKTNKVTTDIFGNDAIFTFPPYAVEAQLARIHIKLPNEAPWPHGLSDRQKKSNTYLVYAQHMWDPSRFSILALVTPAHDLMSAENTQLISRFSQYAEDFHSR,No adjacent downstream ORF,Upstream length

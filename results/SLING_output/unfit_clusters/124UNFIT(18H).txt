@@ -1,0 +1,8 @@
+##  ID: 124UNFIT(18H)
+##  Num Copies: 1
+##  Domains: CcdB
+##  Average Hit Length: 29.0
+##  Average HMMER score: 25.1
+## Reasons: ,hit length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_5#8,124,18H,CcdB,25.1,ERS011849|SC|contig000005,-,29,109924,110011,MMLEQFNVYRNCSAQTNKTLPYYMIVQND,hit length,

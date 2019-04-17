@@ -1,0 +1,7 @@
+%  ID: 43H
+%  Num_Strains: 1
+%  Domains: PIN
+%  Average Hit Length: 134.0
+%  Average HMMER score: 66.7
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5151_6#2,229P,-,PIN,66.7,ERS011951|SC|contig000032,-,134,29604,30008,76,0.0,30008.0,30238.0,0,,,,MLKYMLDTNICIYTIKNKPQAVREAFNQHYGRMCISSVTLMELIYGAEKSASPEKNLRVVEGFIARLEVLNYGIDAAVQTGQIRAELARAGTPVGPYDSMIAAHARALGLILVTNNTREFERINGLRLEDWSIN,MEKTTVFKSNRSQAVRLPKAVALPEDVKHVDIVAVGRTRIITPAGESWDSWFDGESVTSDFMATREQPGDQDREGF,,both

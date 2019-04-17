@@ -1,0 +1,8 @@
+##  ID: 162UNFIT
+##  Num Copies: 1
+##  Domains: ParE-like_toxin
+##  Average Hit Length: 109.0
+##  Average HMMER score: 112.5
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_7#10,162UNFIT,-,ParE-like_toxin,112.5,ERS011887|SC|contig000148,-,109,246,573,MSEEQQGQEIDVYQSRRFEKSLSKLPEAQLKIVEDEIDRVINDPLMGEMKKGDLNFLRVHKFQLNNQQVLLGYSCVEDKLELYLLSIGPHENFYTDQKKHRKADLKLIG,No adjacent downstream ORF,No adjacent upstream ORF

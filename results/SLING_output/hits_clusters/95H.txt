@@ -1,0 +1,7 @@
+%  ID: 95H
+%  Num_Strains: 1
+%  Domains: YafO_toxin
+%  Average Hit Length: 155.0
+%  Average HMMER score: 41.6
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5235_8#8,90P,-,YafO_toxin,41.6,ERS011790|SC|contig000054,-,155,1736,2201,52,-13.0,2188.0,2344.0,0,,,,MGFKISRSQALIEVITQHPITELPIEEFEQYKRECIEFDDTPAPAIHVQLEYPAHLDTIGRDKLMERPVEARGEELHHVHIWQEGCCWEDGDGLFVQWASTSDSYVVYSYFVDRDNDHHFYVIDYCNDKAHVLIEDQHQVAEWTRQAKEFRLQNI,MEDGMTQKRERRTSDKQRQTVRRSAEYKARLSAASAMLAEKMEEKRNAWVSK,,sixframe

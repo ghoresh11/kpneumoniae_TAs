@@ -1,0 +1,8 @@
+##  ID: 36UNFIT(119H)
+##  Num Copies: 1
+##  Domains: PIN
+##  Average Hit Length: 131.0
+##  Average HMMER score: 41.5
+## Reasons: Downstream length,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5197_7#5,36,119H,PIN,41.5,ERS011870|SC|contig000077,+,131,188,581,MLDTRFCAFILREQPEAVLGWLEQAVLRGHRIVISAITWAELSQAAREDSPATQALADAFCASLDVVLPWDRAAVDATTEIKAALAATGTPLGPNDTAIAGHAIAAGAVLVTRNGGEFERVPGLTLQDWAG,Upstream length,Downstream length

@@ -1,0 +1,149 @@
+Toxin_Cluster, Antitoxin1, Antitoxin2,Count, Category, on_contig, vir, amr, plasmid, avg_contig_length, sd_contig_length
+92H,-,-,1,rare,(-;-;-:1),,,,4847.0,0.0
+37H,-,-,37,lin,(-;-;-:34) (AmpH_Bla;silS_4;-:1) (AmpH_Bla;-;-:6) (OqxBgb_Flq;-;-:3) (-;fdrA_3;-:1),mrkH2/mrkI/mrkI2,OqxA_Flq/SHV_OKP_LEN_Bla_2,,95139.6666667,93053.8794823
+138H,-,-,1,rare,(-;-;-:1),,,,10684.0,0.0
+82H,-,-,3,rare,(-;-;-:2) (TEM-1D_Bla;-;IncFIB(AP001918):1),,,,33280.6666667,37745.4172612
+29H,-,-,8,rare,(-;-;-:8),,,,48822.0,54699.4161989
+41H,-,-,7,spo_amr_vir_plasmid,(-;-;-:3) (-;-;IncFIB(Mar):4),,,IncFIB_Mar_,36598.1428571,14814.496881
+53H,-,-,5,rare,(-;-;-:5),,,,29804.6,21130.890569
+106H,-,-,5,rare,(-;-;-:5),,,,55284.6,47047.0286399
+5H,-,-,258,ubiq,(-;silS_4;-:2) (OqxBgb_Flq;mrkC_1;-:1) (-;-;IncFIB(K):1) (OqxBgb_Flq;mrkC_37;-:1) (OqxBgb_Flq;-;-:111) (OqxBgb_Flq;silR_11;-:1) (OqxBgb_Flq;mrkC_38;-:1) (OqxBgb_Flq;silS_4;-:1) (-;-;-:133) (OqxBgb_Flq;mrkC_53;-:1) (OqxBgb_Flq;mrkC_75;-:2) (OqxBgb_Flq;mrkC_40;-:2) (OqxBgb_Flq;mrkC_2;-:1),,,,81600.7984496,102069.729902
+12H,-,-,26,spo_amr_vir_plasmid,(-;pbrA_1;-:1) (-;-;IncFIB(K):4) (-;silC_1;-:1) (-;pbrA_4;IncFIB(K):1) (-;pbrA_3;-:1) (-;-;-:13) (-;pbrA_4;-:5),iutA/fyuA/iucA/iucC/iucD/iucB/allA/ybbW/allB/ybbY/allC/allD/allS/allR/rmpA/clbB/clbR/clbO/clbC/clbP/clbK/clbL/clbM/clbG/clbH/clbF/clbN/clbD/clbA/clbQ/clbE/clbI/pcoA/pcoE/pcoS/pcoC/pcoD/pcoB/pcoR/pbrA/pbrR/pbrBC/mceI/mceG/mceJ/mceH/mceD/mceC/mceE/mceA/mceB/iroN/iroD/iroB/iroC/silE/silC/silS/terZ/terD/terE/terW/terB/terA/terC/terX/terY/gcl/fdrA/ylbE/KP1_1364/glxK/arcC/glxR/ylbF/KP1_1371/hyi/ybtQ/ybtP/ybtE/ybtS/ybtX/irp2/ybtU/ybtA/ybtT,,,22892.8076923,17019.0063572
+26H,-,-,230,lin,(-;kfuB_10;-:2) (AmpH_Bla;-;-:1) (OqxBgb_Flq;-;-:1) (-;iutA_39;-:1) (SHV-OKP-LEN_Bla;-;-:1) (-;-;-:217) (Penicillin_Binding_Protein_Ecoli_Bla;-;-:7),mrkI,OqxA_Flq,,111896.795652,110804.74014
+113H,-,-,2,rare,(-;-;-:1) (TetA_Tet;-;-:1),,,,8929.5,7411.5
+67H,-,-,7,rare,(-;-;-:7),,,,27132.0,18075.1941147
+115H,-,-,5,rare,(-;-;-:3) (-;-;ColRNAI:2),,,,4887.8,1168.74674759
+71H,-,-,8,spo_amr_vir_plasmid,(-;-;-:8),,AadB_AGly/RmtB_AGly/CmlA_Phe/TetG_Tet/TetRG_Tet/Arr_Rif/Dfr23_Tmt/OXA_7_Bla/VEB_1_Bla,,153835.0,137453.364801
+120H,-,-,1,rare,(-;-;-:1),,,,77455.0,0.0
+109H,-,-,4,rare,(-;-;-:2) (-;silS_4;-:1) (SHV-OKP-LEN_Bla;-;-:1),,,,199737.25,112400.784128
+99H,-,-,1,rare,(-;-;-:1),,,,50486.0,0.0
+131H,-,-,4,rare,(-;-;-:4),,,,10567.75,9137.63167826
+81H,-,-,1,rare,(OqxBgb_Flq;-;-:1),,,,23055.0,0.0
+28H,-,-,26,spo_no_assoc,(-;-;-:22) (AmpH_Bla;-;-:4),,,,75883.9615385,92335.4735385
+93H,-,-,2,rare,(-;-;-:1) (-;mrkC_37;-:1),,,,155839.0,142525.0
+146H,-,-,1,rare,(-;-;-:1),,,,1105.0,0.0
+137H,-,-,1,rare,(-;-;-:1),,,,91057.0,0.0
+54H,-,-,4,rare,(-;-;-:3) (OqxBgb_Flq;-;-:1),,,,63176.25,87374.9600068
+34H,-,-,255,ubiq,(-;-;-:249) (CatBx_Phe;-;-:1) (-;silR_11;-:1) (OqxBgb_Flq;-;-:4),,,,95624.5764706,76395.3001668
+40H,-,-,9,rare,(-;-;-:7) (-;irp1_33;-:2),,,,167028.666667,78289.8885525
+110H,-,-,1,rare,(-;-;-:1),,,,50156.0,0.0
+107H,-,-,5,rare,(-;-;-:5),,,,33017.0,18881.912562
+69H,-,-,1,rare,(OqxBgb_Flq;-;-:1),,,,120051.0,0.0
+2H,-,-,64,lin,(OqxBgb_Flq;irp1_48;-:1) (-;irp1_41;-:1) (-;-;IncFII:3) (TEM-1D_Bla;-;IncFIB(AP001918):1) (-;-;-:57) (CatBx_Phe;-;-:2),mrkJ/mrkJ2/mrkI3,,IncFI/IncL_M_pMU407_,84505.6461538,170168.513685
+49H,-,-,15,rare,(-;-;IncFII(pMET):1) (TetA_Tet;-;-:2) (-;-;IncFII(pCRY):3) (Qnr-S_Flq;-;-:2) (-;-;-:2) (CatBx_Phe;-;-:4) (-;-;IncR:1),,,,19045.6,18732.4016463
+13H,-,-,156,lin,(-;-;-:154) (CatBx_Phe;-;-:1) (OqxBgb_Flq;-;-:1),,OqxA_Flq,,90556.0576923,68881.425467
+76H,-,-,1,rare,(-;-;-:1),,,,6000.0,0.0
+126H,-,-,2,rare,(-;-;-:2),,,,94428.0,51590.0
+66H,-,-,2,rare,(-;-;-:2),,,,71411.5,10200.5
+114H,-,-,2,rare,(-;-;-:2),,,,273901.5,257856.5
+130H,-,-,2,rare,(-;-;-:2),,,,130031.0,96375.0
+21H,-,-,237,lin,(-;-;-:235) (-;-;pENTAS02:2) (OqxBgb_Flq;-;-:1),allA/ybbW/allB/ybbY/allC/allD/allS/allR/mrkJ/mrkI/mrkI2/kfuB/kfuA/gcl/fdrA/ylbE/glxK/arcC/glxR/ylbF/KP1_1371,OqxA_Flq/SHV_OKP_LEN_Bla_2,,61689.6806723,57570.7314428
+51H,-,-,7,lin,(-;-;-:5) (-;-;IncFII:2),,,,31600.1428571,39327.3399828
+43H,-,-,1,rare,(-;-;-:1),,,,50486.0,0.0
+100H,-,-,3,rare,(-;-;-:3),,,,65875.3333333,78424.7484124
+64H,-,-,5,lin,(-;mrkC_38;-:1) (-;-;-:2) (-;kfuB_22;-:1) (-;mrkC_66;-:1),mrkI2,SHV_OKP_LEN_Bla_2,,305999.6,205410.482527
+3H,-,-,70,spo_amr_vir_plasmid,(-;iroC_1;-:4) (-;silS_4;-:13) (-;iroB_10;-:1) (-;iroC_13;-:3) (-;iroC_4;-:6) (-;iroC_32;-:1) (-;iroB_20;-:1) (-;iroC_20;-:1) (-;-;-:39) (-;mrkH_16;-:1),iutA/iucA/iucC/iucD/iucB/rmpA/clbB/clbR/clbO/clbC/clbP/clbL/clbM/clbG/clbH/clbF/clbN/clbD/clbA/clbQ/clbE/clbI/pbrA/pbrR/pbrBC/iroN/iroD/iroB/iroC/terZ/terD/terE/terW/terB/terA/terC/terX/terY,,IncHI1B,11460.4714286,10447.2864074
+90H,-,-,2,rare,(-;-;-:2),,,,65550.0,59444.0
+78H,-,-,2,rare,(-;-;-:2),,,,66244.5,25476.5
+143H,-,-,1,rare,(-;-;-:1),,,,18026.0,0.0
+84H,-,-,2,rare,(-;-;-:1) (OqxBgb_Flq;-;-:1),,,,109330.5,23928.5
+134H,-,-,1,rare,(-;-;-:1),,,,40626.0,0.0
+10H,-,-,251,ubiq,(OqxBgb_Flq;irp1_48;-:1) (-;irp2_101;-:1) (-;irp1_34;-:1) (-;irp1_44;-:1) (-;irp2_79;-:1) (-;irp1_17;-:2) (-;irp1_50;-:1) (OqxBgb_Flq;-;-:2) (-;irp1_1;-:2) (-;silR_11;-:1) (-;irp1_116;-:1) (-;irp2_88;-:1) (-;silS_4;-:2) (-;irp1_36;-:3) (-;irp1_6;-:1) (-;irp1_49;-:1) (OqxBgb_Flq;silS_4;-:1) (-;irp1_35;-:1) (-;irp1_33;-:3) (-;irp1_43;-:1) (-;mceG_2;-:4) (SHV-OKP-LEN_Bla;-;-:4) (-;-;-:209) (-;mrkH_16;-:1) (-;irp1_15;-:2) (-;irp1_37;-:2) (-;irp1_47;-:1),,,,179598.760956,194437.417755
+38H,-,-,1,rare,(-;-;-:1),,,,61371.0,0.0
+24H,-,-,12,spo_amr_vir_plasmid,(SulI_Sul;-;-:1) (StrB_AGly;-;IncA/C2:1) (TetA_Tet;-;IncA/C2:2) (CatBx_Phe;-;IncA/C2:3) (-;-;IncA/C2:3) (CTX-M-1_Bla;-;IncA/C2:1) (SulI_Sul;-;IncA/C2:1),,AadA_AGly/AadB_AGly/RmtB_AGly/CmlA_Phe/FloR_Phe/SulII_Sul/TetA_Tet/TetG_Tet/TetRG_Tet/TetR_Tet/Arr_Rif/Dfr23_Tmt/CARB_Bla/CTX_M_1_Bla/OXA_7_Bla/TEM_1D_Bla/VEB_1_Bla,IncA_C,69050.5,38815.0898674
+30H,-,-,6,rare,(-;-;-:6),,,,36179.6666667,30410.8524251
+44H,-,-,19,spo_amr_vir_plasmid,(-;-;-:6) (-;-;ColRNAI:12) (-;-;Col(MGD2):1),,Arr_Rif,ColRNAI,7035.63157895,3306.66399246
+133H,-,-,2,rare,(-;-;-:1) (OqxBgb_Flq;-;-:1),,,,55916.5,53551.5
+141H,-,-,1,rare,(-;-;-:1),,,,3357.0,0.0
+123H,-,-,2,rare,(-;-;-:2),,,,28715.5,8870.5
+58H,-,-,1,rare,(-;-;-:1),,,,8550.0,0.0
+42H,-,-,63,lin,(-;iutA_27;-:1) (OqxBgb_Flq;iutA_39;-:1) (-;iutA_34;-:1) (-;iutA_29;-:1) (-;iutA_39;-:2) (SHV-OKP-LEN_Bla;-;-:1) (-;-;-:54) (-;iutA_32;-:1) (-;silR_11;-:1),mrkJ2/kfuB/mceH/mceD/mceC/mceE/mceA/mceB/KP1_1364/hyi,,,91772.031746,129388.162689
+140H,-,-,1,rare,(-;-;-:1),,,,16711.0,0.0
+101H,-,-,1,rare,(-;-;-:1),,,,31228.0,0.0
+91H,-,-,1,rare,(-;-;-:1),,,,4165.0,0.0
+36H,-,-,1,rare,(-;-;-:1),,,,15592.0,0.0
+139H,-,-,2,rare,(-;-;-:2),,,,111088.5,2197.5
+52H,-,-,22,spo_amr_vir_plasmid,(-;-;-:21) (CatA2_Phe;-;-:1),,Qnr_A_Flq,IncHI2,12655.9090909,11080.7689137
+125H,-,-,2,rare,(-;-;-:2),,,,12925.5,587.5
+83H,-,-,2,rare,(-;-;-:2),,,,16554.5,14998.5
+79H,-,-,29,spo_no_assoc,(-;-;-:29) (-;silR_11;-:1),,,,55241.0666667,74310.2247688
+8H,-,-,236,ubiq,(-;-;-:65) (-;mrkH_16;-:1) (OqxBgb_Flq;-;-:168) (OqxBgb_Flq;silS_4;-:2),,,,182096.95339,158196.638901
+119H,-,-,1,rare,(-;-;IncFIA(HI1):1),,,,102845.0,0.0
+27H,-,-,242,ubiq,(Aac3-IIa_AGly;-;-:1) (-;silS_4;-:1) (SHV-OKP-LEN_Bla;kfuC_28;-:3) (SHV-OKP-LEN_Bla;pcoA_7;-:1) (SHV-OKP-LEN_Bla;iutA_39;-:1) (SHV-OKP-LEN_Bla;silS_4;-:1) (Qnr-S_Flq;-;-:1) (SHV-OKP-LEN_Bla;-;-:104) (-;-;-:125) (MphA_MLS;-;-:1) (SHV-OKP-LEN_Bla;mrkH_16;-:1) (-;silR_11;-:1) (SHV-OKP-LEN_Bla;iutA_35;-:1),,,,188723.747934,177907.142315
+39H,-,-,3,rare,(-;-;-:3),,,,11598.3333333,7343.86030792
+11H,-,-,258,ubiq,(-;mrkC_40;-:2) (-;kvgS_12;-:1) (OqxBgb_Flq;mrkC_53;-:1) (OqxBgb_Flq;mrkC_1;-:1) (-;mrkC_53;-:1) (OqxBgb_Flq;mrkC_75;-:2) (-;mrkC_49;-:4) (-;silS_4;-:1) (-;mrkC_36;-:1) (-;mrkC_60;-:1) (-;kvgS_2;-:1) (-;mrkC_8;-:3) (-;kvgS_9;-:1) (-;mrkC_58;-:2) (-;mrkC_68;-:2) (-;mrkC_10;-:2) (-;mrkC_75;-:4) (OqxBgb_Flq;mrkC_37;-:1) (-;mrkB_27;-:1) (OqxBgb_Flq;mrkC_38;-:1) (-;mrkC_46;-:4) (-;mrkC_20;-:1) (-;mrkC_1;-:8) (OqxBgb_Flq;mrkC_40;-:3) (-;mrkC_12;-:8) (-;kvgS_6;-:1) (-;mrkC_6;-:3) (-;mrkC_48;-:1) (-;mrkC_15;-:1) (-;mrkC_3;-:8) (-;mrkC_56;-:1) (-;mrkC_37;-:4) (-;mrkC_38;-:1) (-;mrkC_2;-:7) (-;mrkC_29;-:3) (-;mrkC_66;-:1) (-;mrkC_50;-:2) (-;mrkC_4;-:1) (-;mrkC_14;-:1) (-;mrkC_18;-:3) (-;-;-:158) (OqxBgb_Flq;mrkC_2;-:2) (-;kvgS_1;-:1) (CTX-M-9_Bla;mrkC_18;-:1) (-;mrkC_54;-:1),,,,127817.445736,143349.598544
+112H,-,-,1,rare,(-;-;-:1),,,,579978.0,0.0
+98H,-,-,1,rare,(-;-;-:1),,,,157035.0,0.0
+31H,-,-,6,rare,(-;-;-:3) (OqxBgb_Flq;-;-:3),,,,168707.333333,129085.446473
+70H,-,-,10,rare,(-;-;-:10) (OqxBgb_Flq;mrkC_37;-:1) (OqxBgb_Flq;-;-:2),,,,94301.3846154,206291.769568
+19H,-,-,9,rare,(-;-;-:9),,,,57585.2222222,26319.1256304
+59H,-,-,1,rare,(OqxBgb_Flq;-;-:1),,,,413423.0,0.0
+132H,-,-,1,rare,(-;-;-:1),,,,1963.0,0.0
+108H,-,-,1,rare,(-;-;-:1),,,,9169.0,0.0
+4H,-,-,139,spo_amr_vir_plasmid,(CmlA_Phe;-;IncR:1) (-;rmpA2_6;-:3) (-;iutA_1;IncHI1B:2) (-;silS_4;-:6) (-;silC_20;IncFIB(K):1) (-;irp1_17;-:1) (-;rmpA2_8;-:1) (-;silC_20;-:1) (-;mrkH_16;IncR:10) (-;silC_3;-:2) (OqxBgb_Flq;-;-:2) (-;iroC_18;-:1) (-;rmpA2_3;-:2) (-;iroC_19;-:2) (-;-;IncFIB(pQil):1) (-;pcoA_6;IncFIB(K):1) (-;silS_2;-:1) (-;terA_2;IncHI1B:1) (-;irp2_88;-:1) (-;pcoA_6;IncR:2) (-;irp1_36;-:1) (-;pcoA_6;-:5) (-;silC_14;IncFIB(K):1) (-;iutA_1;-:3) (-;mrkH_16;-:2) (AadA_AGly;silC_20;IncN:1) (-;pcoA_2;IncFIA(HI1):1) (CatBx_Phe;-;-:1) (-;silE_10;IncR:1) (-;-;IncFIA(HI1):2) (-;rmpA2_4;-:1) (-;iroN_5;-:2) (-;rmpA2_5;-:1) (-;-;-:80) (-;iutA_17;IncFIB(K):1) (-;pcoA_2;-:1) (-;-;IncR:10),iutA/iucA/iucD/iucB/rmpA/pbrA/pbrR/pbrBC/iroN/iroD/iroB/iroC,DfrA_Tmt_1,,26463.8589744,66770.4167833
+145H,-,-,1,rare,(-;-;-:1),,,,1347.0,0.0
+72H,-,-,10,spo_amr_vir_plasmid,(-;-;-:7) (StrB_AGly;-;IncA/C2:1) (TetA_Tet;-;IncA/C2:2),,AadA_AGly/AadA_AGly_2/AadB_AGly/RmtB_AGly/CmlA_Phe/FloR_Phe/SulII_Sul/TetA_Tet/TetG_Tet/TetRG_Tet/TetR_Tet/Arr_Rif/Dfr23_Tmt/CARB_Bla/OXA_7_Bla/VEB_1_Bla,IncA_C,47058.7,50978.3773203
+86H,-,-,5,rare,(-;-;-:2) (-;-;IncFII:3),,,,6109.2,2775.85773411
+118H,-,-,2,rare,(-;-;-:2),,,,6695.5,2979.5
+1H,-,-,15,rare,(-;-;-:15),,,,59660.9333333,38961.5316853
+96H,-,-,6,spo_amr_vir_plasmid,(-;-;-:6),,CatBx_Phe,,142794.666667,65582.1699287
+102H,-,-,1,rare,(-;-;-:1),,,,126164.0,0.0
+9H,-,-,95,lin,(-;-;-:95),mrkJ2/mrkI3,,,52101.9578947,96005.2670253
+16H,-,-,235,lin,(-;-;-:233) (-;-;IncFIB(K):1) (-;kfuC_9;-:1),mrkJ,,,86711.0978723,76916.6708601
+22H,-,-,250,ubiq,(-;silS_4;-:3) (-;-;IncFII:1) (SHV-OKP-LEN_Bla;-;-:19) (-;-;-:224) (MphA_MLS;-;-:1) (-;silR_11;-:2),,,,184414.032,180777.968834
+56H,-,-,8,rare,(-;-;-:7) (-;kfuB_19;-:1),,,,69584.75,57631.3689403
+135H,-,-,1,rare,(AadA4-5_AGly;-;-:1),,,,2259.0,0.0
+46H,-,-,2,rare,(-;-;-:2),,,,90447.5,22838.5
+124H,-,-,1,rare,(-;-;-:1),,,,264362.0,0.0
+63H,-,-,2,rare,(-;-;-:2),,,,208900.0,72705.0
+121H,-,-,1,rare,(-;-;-:1),,,,2514.0,0.0
+75H,-,-,10,spo_amr_vir_plasmid,(-;mrkC_49;-:2) (-;-;-:5) (-;mrkC_68;-:1) (-;silS_4;-:1) (SHV-OKP-LEN_Bla;-;-:1),,,Col_MGD2_,89838.2,72873.6666112
+147H,-,-,1,rare,(-;-;-:1),,,,22225.0,0.0
+103H,-,-,1,rare,(-;-;-:1),,,,719.0,0.0
+50H,-,-,5,rare,(-;-;-:5),,,,110797.4,108252.95045
+73H,-,-,7,rare,(-;-;-:7),,,,62441.7142857,94790.99407
+18H,-,-,199,spo_no_assoc,(-;silS_4;-:4) (SHV-OKP-LEN_Bla;iutA_39;-:1) (SHV-OKP-LEN_Bla;-;-:27) (-;-;-:165) (MphA_MLS;-;-:1) (-;silR_11;-:1),,,,189460.160804,190357.148752
+65H,-,-,2,rare,(-;-;IncFIB(K):1) (CatBx_Phe;-;-:1),,,,45317.5,13559.5
+142H,-,-,1,rare,(-;-;-:1),,,,28858.0,0.0
+85H,-,-,1,rare,(-;-;-:1),,,,9675.0,0.0
+97H,-,-,1,rare,(-;-;-:1),,,,88319.0,0.0
+25H,-,-,40,lin,(-;-;-:39) (-;silS_4;-:1),mrkJ2/mrkI2/mrkI3/kfuB/kfuA,SHV_OKP_LEN_Bla_2,,92592.525,88159.4148483
+17H,-,-,249,lin,(-;-;-:279) (OqxBgb_Flq;-;-:3),mrkJ/mrkJ2/mrkI/mrkI3,,,62299.248227,45294.4310486
+6H,-,-,120,spo_amr_vir_plasmid,(-;-;-:116) (Penicillin_Binding_Protein_Ecoli_Bla;-;-:1) (AmpH_Bla;gcl_6;-:1) (-;silS_4;-:1) (AmpH_Bla;-;-:1),kfuB/kfuC/kfuA,,,56884.8333333,94276.0996244
+45H,-,-,45,spo_no_assoc,(-;-;-:46),,,,51415.9782609,63294.7847661
+57H,-,-,27,spo_amr_vir_plasmid,(-;-;-:19) (CatBx_Phe;-;-:8),pcoA/pcoE/pcoC/pcoD/pcoR/silE/silC/silS/silR,,IncFIB_K_,11698.3333333,10252.9026279
+33H,-,-,26,lin,(-;-;-:23) (-;-;Col(Ye4449):3),mrkJ2/mrkI3/kfuB/kfuC/kfuA,,,40659.3846154,47962.6281094
+62H,-,-,42,spo_amr_vir_plasmid,(-;-;-:37) (-;-;IncFIB(K):1) (-;silR_11;-:1) (-;silS_4;-:2) (-;-;IncFIA(HI1):1),,,IncFIB_K_/IncFIB_Mar_,8206.21428571,16388.504555
+148H,-,-,1,rare,(-;-;-:1),,,,858.0,0.0
+122H,-,-,2,rare,(-;-;IncFIB(K):1) (-;iutA_17;IncFIB(K):1),,,,37784.0,31381.0
+80H,-,-,9,spo_amr_vir_plasmid,(-;-;-:3) (-;kvgS_6;-:3) (-;mrkC_6;-:1) (-;mrkC_2;-:1) (-;mrkC_1;-:1),iucD,,,83457.1111111,88573.3677072
+68H,-,-,3,rare,(-;-;-:3),,,,66532.3333333,51247.8446788
+47H,-,-,1,rare,(-;-;-:1),,,,56094.0,0.0
+136H,-,-,1,rare,(-;-;-:1),,,,7209.0,0.0
+35H,-,-,59,spo_amr_vir_plasmid,(-;-;-:56) (-;mrkH_16;-:1) (-;silS_4;-:1) (-;iroC_4;-:1),,,IncHI1B,3164.50847458,6754.10855846
+94H,-,-,3,rare,(-;-;-:3),,,,81660.0,41656.8429193
+104H,-,-,1,rare,(-;-;-:1),,,,183781.0,0.0
+128H,-,-,1,rare,(-;-;-:1),,,,7475.0,0.0
+48H,-,-,3,rare,(-;-;-:3),,,,7937.33333333,1678.90725043
+7H,-,-,240,lin,(-;-;-:236) (OqxBgb_Flq;-;-:4),mrkI,OqxA_Flq,,79786.1791667,90182.9503418
+127H,-,-,1,rare,(-;-;-:1),,,,1269.0,0.0
+61H,-,-,57,spo_amr_vir_plasmid,(-;silS_4;-:1) (-;pcoA_6;-:1) (-;-;IncFIA(HI1):2) (Qnr-S_Flq;-;-:6) (AadA_AGly;silC_20;IncN:1) (-;-;-:40) (-;mrkH_16;-:1) (CatBx_Phe;-;-:2) (-;pcoA_6;IncR:1) (-;-;IncR:2),pcoA/pcoE/pcoC/pcoD/pcoB/pcoR/silE/silC/silS/silR,Aac3_IIa_AGly,,14604.4385965,13049.1929737
+89H,-,-,1,rare,(-;-;-:1),,,,67609.0,0.0
+20H,-,-,30,spo_amr_vir_plasmid,(CARB_Bla;-;-:1) (OXA-9_Bla;-;-:1) (CmlA_Phe;-;IncR:1) (TetA_Tet;-;-:1) (SulI_Sul;-;-:8) (AadA_AGly;-;-:8) (AadA_AGly;-;IncHI1B:2) (MphA_MLS;-;-:2) (TEM-1D_Bla;-;IncFIB(AP001918):1) (AadA_AGly;silC_20;IncN:1) (DfrA_Tmt;-;-:2) (CmlA_Phe;-;-:2),,AadA_AGly/AadA_AGly_2/SulIII_Sul/SulII_Sul/SulI_Sul/TetA_Tet/TetR_Tet/DfrA_Tmt_1/MphA_MLS/TEM_1D_Bla,,24005.4666667,67319.6450217
+77H,-,-,3,rare,(-;-;-:3),,,,5216.33333333,2180.30843893
+14H,-,-,103,spo_amr_vir_plasmid,(-;-;-:101) (SulI_Sul;-;-:1) (CatBx_Phe;-;-:1) (-;-;IncFII:2),silR,AacAad_AGly_3/AadA_AGly/AadA_AGly_2/CatBx_Phe/SulI_Sul/DfrA_Tmt_1/OXA_1_Bla,IncFIB_K_/IncFII/IncFII_K_,3826.81904762,7983.38254099
+117H,-,-,1,rare,(-;-;-:1),,,,55878.0,0.0
+129H,-,-,1,rare,(-;-;-:1),,,,25053.0,0.0
+111H,-,-,1,rare,(-;-;-:1),,,,39921.0,0.0
+32H,-,-,10,rare,(-;-;-:7) (OqxBgb_Flq;mrkC_2;-:1) (-;mrkC_2;-:2),,,,173679.1,180910.857626
+144H,-,-,1,rare,(-;-;-:1),,,,24521.0,0.0
+95H,-,-,1,rare,(-;-;-:1),,,,21769.0,0.0
+87H,-,-,8,lin,(-;-;-:8),mrkJ2,,,47762.25,55182.9514768
+105H,-,-,1,rare,(-;-;-:1),,,,3529.0,0.0
+23H,-,-,97,spo_no_assoc,(-;-;-:93) (SulI_Sul;-;-:1) (AmpH_Bla;-;-:1) (Qnr-S_Flq;-;-:1) (SHV-OKP-LEN_Bla;-;-:2),,,,105960.071429,122145.978232
+55H,-,-,14,spo_amr_vir_plasmid,(-;-;-:14),,DfrA5_Tmt_1,,94445.3571429,116734.715916
+74H,-,-,4,rare,(-;-;-:4),,,,46936.0,35367.7856743
+15H,-,-,96,spo_amr_vir_plasmid,(-;-;-:93) (-;kfuC_28;-:1) (AmpH_Bla;-;-:1) (-;iutA_39;-:1),kfuC,,,60704.59375,110115.012787
+88H,-,-,3,rare,(-;-;-:3),,,,24594.3333333,17362.4984633
+116H,-,-,1,rare,(-;-;-:1),,,,15592.0,0.0
+60H,-,-,8,spo_amr_vir_plasmid,(-;-;-:5) (-;terC_1;-:1) (-;terD_2;-:1) (TEM-1D_Bla;pbrA_1;-:1),,Qnr_A_Flq,IncHI2/IncHI2A,29959.75,23718.7244479

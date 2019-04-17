@@ -1,0 +1,2 @@
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5193_8#5,141P,-,ParE_toxin,58.7,ERS011906|SC|contig000088,+,93,578,859,89,-3.0,312.0,581.0,0,,,,MMEIFWTMLASQDRKRIREYIAEQNLMAAIELDERIGYSASSLAGQPYKGRNGRVEGTRELVIHPHFVLVYEVDSQWGKVYILRVLHTAQKWP,MAQVNMSLRIDAELKDAFMAAAKSMDRNGSQLIRDFMRQTVERQHNTWFRDQVAAGRQQLEHGDVLPHDMVESSAAAWRDEMSRKVAGK,,annotation

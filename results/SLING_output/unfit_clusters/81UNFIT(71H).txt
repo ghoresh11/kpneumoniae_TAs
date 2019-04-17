@@ -1,0 +1,8 @@
+##  ID: 81UNFIT(71H)
+##  Num Copies: 1
+##  Domains: Peptidase_M78
+##  Average Hit Length: 107.0
+##  Average HMMER score: 44.7
+## Reasons: ,hit length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_6#4,81,71H,Peptidase_M78,44.7,ERS011953|SC|contig000004,-,107,258028,258349,MPQDSLIILREDVYEGAHAGNGRDRMTVAHEIGHLLMHKNIAFARAEPGVEIRAFESSEWQAKCFSGELLVPYSHAALLRGMSVEEIAEACGVSAHAADYQKQLLKK,hit length,

@@ -1,0 +1,10 @@
+##  ID: 240P
+##  Num Copies: 1
+##  Domains: PIN
+##  Average Hit Length: 138.0
+##  Average HMMER score: 46.9
+##  Average Delta: 34.0
+##  Average Partner Length: 68.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5235_7#7,4H,PIN,46.9,downstream,ERS012040|SC|contig000112,-,68,34.0,6144.0,6350.0,138,6384,6800,MMSQHKSLTGHINTVIQTGLTPEQADILIDALKQCLGREDMNETVANELHFLMMKLAAVKTAGNLIQR,MKKTWMLDTNICSFIMREQPAAVLKRLEQAVLRGDRIVVSAVTYAEMRFGATGPKASPRHIQLVDAFCARLDAVLPWDRAAVDATTDIRVALRLAGTPIGPNDTAIAGHAIAAGAVLVTNNVREFARVPGLVLEDWVK,both

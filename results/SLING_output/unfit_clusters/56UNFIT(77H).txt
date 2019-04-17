@@ -1,0 +1,9 @@
+##  ID: 56UNFIT(77H)
+##  Num Copies: 2
+##  Domains: HigB-like_toxin
+##  Average Hit Length: 106.0
+##  Average HMMER score: 104.55
+## Reasons: Upstream length,No adjacent downstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5299_7#4,56,77H,HigB-like_toxin,104.5,ERS012049|SC|contig000088,+,106,4257,4575,MQQNHDSDDDCRIQFRDDWLYQFYKYGKANRKIPATISVSLGRKLDMLNAADKIGDLRSPPGNRFENLNPPLTGYSSIRVNDKYRLIFKWGENGVEDLYLDPHDYR,Upstream length,No adjacent downstream ORF
+5151_2#3,56,77H,HigB-like_toxin,104.6,ERS011916|SC|contig000073,-,106,2752,3070,MQQDHEHDDDCRIQFRDDWLYQFYKYGKANRKIPAAIGASLGRKLDMLNAADKVGDLRSPPGNRFENLKPPLTGYSSIRVNEKYRLIFKWGENGVEDLYLDPHDYR,No adjacent downstream ORF,Upstream length

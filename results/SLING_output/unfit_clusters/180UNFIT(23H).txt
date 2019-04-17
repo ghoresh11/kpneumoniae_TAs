@@ -1,0 +1,8 @@
+##  ID: 180UNFIT(23H)
+##  Num Copies: 1
+##  Domains: YdaT_toxin
+##  Average Hit Length: 78.0
+##  Average HMMER score: 73.9
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_5#6,180,23H,YdaT_toxin,73.9,ERS011847|SC|contig000133,-,78,1186,1420,MAVLPLEFRHRLLPEDNFMSRLARLEKETSEAKVAVAMGAPRHQKLKELSEGIVEMFRVDPELTAPLMAIVTSMLGVL,No adjacent downstream ORF,No adjacent upstream ORF

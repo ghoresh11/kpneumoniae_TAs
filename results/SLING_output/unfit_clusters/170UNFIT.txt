@@ -1,0 +1,8 @@
+##  ID: 170UNFIT
+##  Num Copies: 1
+##  Domains: DUF3368
+##  Average Hit Length: 161.0
+##  Average HMMER score: 39.8
+## Reasons: No adjacent downstream ORF,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5150_5#10,170UNFIT,-,DUF3368,39.8,ERS005786|SC|contig000658,-,161,97,582,MIILISDANIIIDMEEGGLIDLIFTLPHCFKVPDILYYDELEEQHGILLDRGLVLGELSSETLTYALGLAENASGPSRNDCFALCLAKQEQCPLLTGDKALRELAQSEGIEVKGTLWIVEEMLHHGLITPSMAREAYNRMRDAGRRLPWDIAFRRLDELDL,No adjacent downstream ORF,Upstream length

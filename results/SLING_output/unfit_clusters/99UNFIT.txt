@@ -1,0 +1,8 @@
+##  ID: 99UNFIT
+##  Num Copies: 1
+##  Domains: MqsR_toxin
+##  Average Hit Length: 54.0
+##  Average HMMER score: 20.3
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5299_1#10,99UNFIT,-,MqsR_toxin,20.3,ERS011971|SC|contig000258,+,54,44,206,MRDLILQLSKSSIYSTKPFYAEKNVFQDIYYYPNRSEKRRRSYSRTVYLYSPDM,No adjacent upstream ORF,No adjacent downstream ORF

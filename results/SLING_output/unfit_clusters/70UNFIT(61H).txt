@@ -1,0 +1,9 @@
+##  ID: 70UNFIT(61H)
+##  Num Copies: 2
+##  Domains: CcdB
+##  Average Hit Length: 85.5
+##  Average HMMER score: 72.45
+## Reasons: Downstream length,Upstream length,No adjacent upstream ORF,No adjacent downstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_2#10,70,61H,CcdB,92.7,ERS011923|SC|contig000182,+,101,203,506,MQFKVYAYKRESRYRLFVDVQSDIIDTPGRRMVIPLASARLLSDKVSRELYPVVHIGDDSYRLMTTDMASVTASVTGEEVADLSHRENDIKNAINLMFWGI,Upstream length,No adjacent downstream ORF
+5299_1#4,70,61H,CcdB,52.2,ERS011965|SC|contig000483,-,70,1190,1400,MVIPLASARLLSDKVSCELYPVVHIGDDSYRLMTTDMASVTSSVTGEEVADLSHRENDIKNAINLMFWGI,Downstream length,No adjacent upstream ORF

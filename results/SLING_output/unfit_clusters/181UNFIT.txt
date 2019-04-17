@@ -1,0 +1,9 @@
+##  ID: 181UNFIT
+##  Num Copies: 2
+##  Domains: HicA_toxin
+##  Average Hit Length: 82.0
+##  Average HMMER score: 37.6
+## Reasons: Downstream length,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_7#3,181UNFIT,-,HicA_toxin,37.6,ERS011880|SC|contig000002,-,82,223716,223964,MSKSKKLRERLGSLPKDFTWDELVTLLGQYGFNVLNGTGSRRKFVNQKGRLVSYHCPHPGNIVKEYVLKDVRALLDELDNYE,Downstream length,Upstream length
+5193_7#7,181UNFIT,-,HicA_toxin,37.6,ERS011884|SC|contig000028,+,82,729,977,MSKSKKLRERLGSLPKDFTWDELVTLLGQYGFNVLNGTGSRRKFVNQKGRLVSYHCPHPGNIVKEYVLKDVRALLDELDNYE,Upstream length,Downstream length

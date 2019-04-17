@@ -1,0 +1,8 @@
+##  ID: 112UNFIT
+##  Num Copies: 1
+##  Domains: Bro-N
+##  Average Hit Length: 152.0
+##  Average HMMER score: 27.0
+## Reasons: Upstream length,No adjacent downstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_3#7,112UNFIT,-,Bro-N,27.0,ERS011836|SC|contig000033,+,152,26209,26665,MTTSLTFKEHAVVPFENGDGKIWFTTDALADLLGYANANKVSNIFKRHEDEFTESMTIVTKVRKDGINNSLREVDVRLFSPRGAHLIGMVSRTKVAKDLRIWMLDLAEKESGVKVGSLDVNCLTSLAGQQIHDTTLSLTSFHSNIVDRKVAG,Upstream length,No adjacent downstream ORF

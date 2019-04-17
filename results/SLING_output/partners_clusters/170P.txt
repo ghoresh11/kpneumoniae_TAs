@@ -1,0 +1,10 @@
+##  ID: 170P
+##  Num Copies: 1
+##  Domains: CbtA_toxin
+##  Average Hit Length: 106.0
+##  Average HMMER score: 184.7
+##  Average Delta: 31.0
+##  Average Partner Length: 67.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5151_5#11,45H,CbtA_toxin,184.7,downstream,ERS011948|SC|contig000272,+,67,31.0,5025.0,5226.0,106,4674,4994,MLANSRQITLPAIGVYMRFESLQNTGQKFKILLSTAMHCWADFFISSLAFFSISSDSMSKIMLSRNF,MKFLPATNMRAAKPCQSPVTIWEMLLARLLEQHYGLALNDTPFSDETVIQEHIDAGISLADAVNFLVEKYGLVRTDRRGFNWQEQSPYLQVVDILQARQAIGSLSK,both

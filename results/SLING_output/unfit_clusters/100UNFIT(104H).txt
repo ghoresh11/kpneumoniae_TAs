@@ -1,0 +1,13 @@
+##  ID: 100UNFIT(104H)
+##  Num Copies: 6
+##  Domains: HicA_toxin
+##  Average Hit Length: 29.5
+##  Average HMMER score: 25.8333333333
+## Reasons: ,No adjacent downstream ORF,No adjacent upstream ORF,hit length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5150_2#7,100,104H,HicA_toxin,24.3,ERS005759|SC|contig000001,-,24,171766,171838,MPRHPGKEIPEPLRKAILKQLGIK,hit length,
+5150_2#7,100UNFIT(104H),-,HicA_toxin,33.5,ERS005759|SC|contig000038,+,57,41767,41940,VKQREFQRWLESQGVEITDGAKHLKLRLNGKRSVMPRHPGSEIVEQLRKAILKQLGL,No adjacent upstream ORF,No adjacent downstream ORF
+5150_1#4,100,104H,HicA_toxin,24.3,ERS005744|SC|contig000009,+,24,21290,21362,MPRHPGKEIPEPLRKAILKQLGIK,hit length,
+5193_5#7,100,104H,HicA_toxin,24.3,ERS011848|SC|contig000007,+,24,111220,111292,MPRHPGKEIPEPLRKAILKQLGIK,hit length,
+5299_7#6,100,104H,HicA_toxin,24.3,ERS012051|SC|contig000013,-,24,62512,62584,MPRHPGKEIPEPLRKAILKQLGIK,hit length,
+5235_5#11,100,104H,HicA_toxin,24.3,ERS012020|SC|contig000146,-,24,973,1045,MPRHPGKEIPEPLRKAILKQLGIK,hit length,

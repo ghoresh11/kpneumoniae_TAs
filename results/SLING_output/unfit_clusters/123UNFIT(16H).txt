@@ -1,0 +1,8 @@
+##  ID: 123UNFIT(16H)
+##  Num Copies: 1
+##  Domains: ParE_toxin
+##  Average Hit Length: 61.0
+##  Average HMMER score: 28.9
+## Reasons: Downstream length,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_7#8,123,16H,ParE_toxin,28.9,ERS011885|SC|contig000004,+,61,253608,253791,MQNPRIESARLNDLPDCYKIKLKASGYRLVYQVRDSVVVVYVIAIGKREKAAVYHQANKRL,Upstream length,Downstream length

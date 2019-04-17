@@ -1,0 +1,13 @@
+##  ID: 82UNFIT
+##  Num Copies: 6
+##  Domains: ParE_toxin
+##  Average Hit Length: 43.0
+##  Average HMMER score: 22.8
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_6#9,82UNFIT,-,ParE_toxin,22.4,ERS011958|SC|contig000063,+,43,71,200,MKNVKLTPEANQDLEDIWYYGYHHFDEERAERYINLLSGIFCF,No adjacent upstream ORF,No adjacent downstream ORF
+5299_1#3,82UNFIT,-,ParE_toxin,23.0,ERS011964|SC|contig000217,+,43,136,265,MKTVKLTPEANQDLEDIWYYGYHHFDEERAERYINLLSRIFCF,No adjacent upstream ORF,No adjacent downstream ORF
+5197_8#2,82UNFIT,-,ParE_toxin,23.0,ERS011891|SC|contig000036,+,43,36972,37101,MKTVKLTPEANQDLEDIWYYGYHHFDEERAERYINLLSRIFCF,No adjacent upstream ORF,No adjacent downstream ORF
+5299_7#7,82UNFIT,-,ParE_toxin,23.0,ERS012052|SC|contig000038,+,43,32829,32958,MKTVKLTPEANQDLEDIWYYGYHHFDEERAERYINLLSRIFCF,No adjacent upstream ORF,No adjacent downstream ORF
+5193_5#7,82UNFIT,-,ParE_toxin,22.4,ERS011848|SC|contig000049,+,43,126,255,MKTVKLTPEANQDLEDIWYYGYHHFDEERAERYINLLSGIFCF,No adjacent upstream ORF,No adjacent downstream ORF
+5151_6#6,82UNFIT,-,ParE_toxin,23.0,ERS011955|SC|contig000157,+,43,108,237,MKTVKLTPEANQDLEDIWYYGYHHFDEERAERYINLLSRIFCF,No adjacent upstream ORF,No adjacent downstream ORF

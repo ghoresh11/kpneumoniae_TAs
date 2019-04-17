@@ -1,0 +1,10 @@
+##  ID: 82P
+##  Num Copies: 1
+##  Domains: Fic
+##  Average Hit Length: 161.0
+##  Average HMMER score: 39.9
+##  Average Delta: 10.0
+##  Average Partner Length: 59.0
+##  Order: Upstream: 1 Downstream: 0
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5150_2#3,97H,Fic,39.9,upstream,ERS005756|SC|contig000007,-,59,10.0,18048.0,18227.0,161,17553,18038,MSHALKKADRLYIPPRDKSTVAKPRAAISETCSHTGQVKNAFDFGFSRYEKAMEDLSKV,MAEYVEGVNYLSVEDLVYINRRLIETQTPNEPIEVLSEGNLSSSQARPSMIRWYRQTDDMFVLSASLIESLIQNHPFANANKRTAMMAGYIFLLLNGYELTAPGDDLVTMAEGLARKEYDVDDLENWLCHWSREYDARELCVNHSVNVIEVICSQQVILNK,both

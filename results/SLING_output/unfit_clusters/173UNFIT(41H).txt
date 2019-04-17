@@ -1,0 +1,8 @@
+##  ID: 173UNFIT(41H)
+##  Num Copies: 1
+##  Domains: HigB-like_toxin
+##  Average Hit Length: 103.0
+##  Average HMMER score: 46.5
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_6#9,173,41H,HigB-like_toxin,46.5,ERS011958|SC|contig000038,+,103,27433,27744,MIHSFEEKNLEKLFTSGKSQSGLPTDITNSLKRALNELHAAGSEADLIRLKSRNYEKIHHTRLRERERAGDMSSIRVSSKYRLLFTWANGGANRVKLTAHAHA,No adjacent upstream ORF,No adjacent downstream ORF

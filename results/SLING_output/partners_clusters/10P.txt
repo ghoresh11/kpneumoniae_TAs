@@ -1,0 +1,10 @@
+##  ID: 10P
+##  Num Copies: 1
+##  Domains: PIN
+##  Average Hit Length: 165.0
+##  Average HMMER score: 22.5
+##  Average Delta: -20.0
+##  Average Partner Length: 54.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5299_7#1,112H,PIN,22.5,downstream,ERS012046|SC|contig000001,-,54,-20.0,41565.0,41727.0,165,41707,42202,MTPPQSFTNLKIKPVPGHRAGLLLPYSSLSISTSSASSTAKQPLPKTKHKINIL,MKDGCKLSNPENGMEIPDPMRRVEALIDMVESSGGAVIIPTPVLAEYLVGIDKKDHQTHLNLIQRQSCFEIASFDEISAIECAQMPSIKELKLMMKSDTASKVKFDRQIISIAKALNVDEVWTHDKGVFNRCKEMGIVVKSLADIDPAPVQVLIDMSHDAPSELH,sixframe

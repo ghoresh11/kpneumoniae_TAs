@@ -1,0 +1,2 @@
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5235_6#10,53P,-,YafQ_toxin,119.2,ERS012031|SC|contig000222,+,91,337,612,86,4.0,73.0,333.0,0,,,,MTTRTIEYSGQFQKDVKKAQKRHKDMSKLKALMTLLINDALPLPQVYKDHPLQGNYKGYRDAHIEPDWLLIYKITDEVLRFERTGTHSDLF,MAANAFVRARIDETLKNEAAVVLAGMGLTVSDLVRITLTKVAKEKALPFDMRVPNELTANTIANSEKGVDVHTAKDADDLFNQLGI,,both

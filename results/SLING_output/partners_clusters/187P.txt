@@ -1,0 +1,10 @@
+##  ID: 187P
+##  Num Copies: 1
+##  Domains: PemK_toxin
+##  Average Hit Length: 112.0
+##  Average HMMER score: 85.4
+##  Average Delta: -1.0
+##  Average Partner Length: 76.0
+##  Order: Upstream: 1 Downstream: 0
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5151_2#1,105H,PemK_toxin,85.4,upstream,ERS011914|SC|contig000065,-,76,-1.0,1208.0,1436.0,112,873,1209,MTTAIGKWGNGAALRIPQPFMKQLGLSIGDVVNFRVTERDLVITKAGPTLEELLGQCTAENRHHEYLCDSQGKEML,MTTYCPARGDVILLDFNPQSGHEQAGKRPALVVSDDLFNQVTGFAVVCPITNQIKGYPFEVPVDGTTKTTGVILADQVKSLDWKARAARTVDSVSGETVTTVVDMVSKIIKA,sixframe

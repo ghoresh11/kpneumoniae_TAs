@@ -1,0 +1,10 @@
+##  ID: 228P
+##  Num Copies: 1
+##  Domains: ParE_toxin
+##  Average Hit Length: 87.0
+##  Average HMMER score: 23.1
+##  Average Delta: 12.0
+##  Average Partner Length: 131.0
+##  Order: Upstream: 1 Downstream: 0
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5235_3#7,145H,ParE_toxin,23.1,upstream,ERS012004|SC|contig000172,-,131,12.0,699.0,1092.0,87,424,687,MAFVSQVDKSRAASSRIGDSSIVVTQSYKASTKAQELSIRLTSLVLSKGGMKIGDHVDVLYDKDSDRWMLRKMDGGLKITGKDDAPTGLIRYTLKDTHARFTEEKEHLPIRKSSIEDSLEIEDGQIIFKLD,MTSKVLWADKALSDRETIFESNDKVSGLSYAKSEDAKIKRAVSTIKRNNKVGRNDLDVRGYVYVLPKRYKILYRLTDEHIFIERVFY,both

@@ -1,0 +1,8 @@
+##  ID: 156UNFIT(2H)
+##  Num Copies: 1
+##  Domains: PemK_toxin
+##  Average Hit Length: 42.0
+##  Average HMMER score: 23.3
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_5#9,156,2H,PemK_toxin,23.3,ERS011946|SC|contig000845,+,42,188,316,MGVIRCDQLRTIDMAARNGMRLERIPDAVVNEVLARLDAILS,No adjacent upstream ORF,No adjacent downstream ORF

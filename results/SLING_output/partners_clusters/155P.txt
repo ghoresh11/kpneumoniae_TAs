@@ -1,0 +1,10 @@
+##  ID: 155P
+##  Num Copies: 1
+##  Domains: RelE
+##  Average Hit Length: 78.0
+##  Average HMMER score: 24.9
+##  Average Delta: 29.0
+##  Average Partner Length: 52.0
+##  Order: Upstream: 1 Downstream: 0
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5193_1#4,33H,RelE,24.9,upstream,ERS011797|SC|contig000087,-,52,29.0,264.0,420.0,78,1,235,MTAPTRRSCASRSSQSRSRRKNRPATMAPRCNRFSEIRIKCTMYSIKHRRQL,MFTRQIKQIATDEELRELQKTLIESPDKGDLIQKTGGLRKVRMATGNQGKSGSARVIYFLATAEVIYLVMAYPKSTKD,sixframe

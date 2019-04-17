@@ -1,0 +1,8 @@
+##  ID: 172UNFIT(5H)
+##  Num Copies: 1
+##  Domains: Polyketide_cyc2
+##  Average Hit Length: 121.0
+##  Average HMMER score: 28.9
+## Reasons: No adjacent downstream ORF,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_5#3,172,5H,Polyketide_cyc2,28.9,ERS011940|SC|contig000217,-,121,1,364,MEPAMPQISRTALVPFSAEQMYQLVNDVKSYPDFLPGCTGSRVLELGPTQMTAAVDVSKAGISKTFTTRNTLTSNQSILMSLVDGPFKKLIGGWKFIPLSPEACKIEFHLDFEFTNKLIEM,No adjacent downstream ORF,Upstream length

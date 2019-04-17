@@ -1,0 +1,10 @@
+##  ID: 178P
+##  Num Copies: 1
+##  Domains: PemK_toxin
+##  Average Hit Length: 108.0
+##  Average HMMER score: 82.2
+##  Average Delta: 28.0
+##  Average Partner Length: 104.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5193_7#9,131H,PemK_toxin,82.2,downstream,ERS011886|SC|contig000053,-,104,28.0,500.0,812.0,108,840,1164,MSDKQEINDVAIVKWVFGIIFAVVIIGMPTLGFFKFVMLLISLTITIGTVFYFGSITKNKDNKIPMMILGGFVGIIISAGLVLYNVHERNEMCSSDFVPVFCSL,MKRDYIPDAGDIVWMDFDPQAGHEQAGHRPALVLSPAVYNGRIGLLLCCPMTTKIKGYPFEVRNGEGSAVLADQVKSLDWRERGAVKKGKVSAAVLAEVRSKLKVLIG,sixframe

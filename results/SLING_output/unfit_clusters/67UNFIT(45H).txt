@@ -1,0 +1,8 @@
+##  ID: 67UNFIT(45H)
+##  Num Copies: 1
+##  Domains: CbtA_toxin
+##  Average Hit Length: 106.0
+##  Average HMMER score: 168.6
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5235_2#8,67,45H,CbtA_toxin,168.6,ERS011993|SC|contig000672,+,106,88,406,MHISTVPAKVPVSSRLSPVQVWQQLLTYLLGHHYGLTLNDTPFHDDAAIEEHIDAGITLADAVNFLVERYELVRIDRKGFSWQEQTPFLTATDILRARRATGLINT,No adjacent upstream ORF,No adjacent downstream ORF

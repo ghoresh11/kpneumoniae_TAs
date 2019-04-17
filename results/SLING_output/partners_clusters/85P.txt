@@ -1,0 +1,10 @@
+##  ID: 85P
+##  Num Copies: 1
+##  Domains: AHSA1
+##  Average Hit Length: 97.0
+##  Average HMMER score: 59.1
+##  Average Delta: 1.0
+##  Average Partner Length: 60.0
+##  Order: Upstream: 1 Downstream: 0
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5299_1#9,143H,AHSA1,59.1,upstream,ERS011970|SC|contig000095,-,60,1.0,9567.0,9747.0,97,9273,9566,MSRSATDSRDLVISACSARPPQPCGARGPTRHYSEPGGARSPGKPRFWPLIFAPAGPFTP,MHGSDGERSDNPGCFLEVIPQQKIVMTSMLTADYRPAVSPFAMTAIITFADEQGGCRYTATVLHADDETREQHEQMGFFEGWNIVIDQLNDLALILR,both

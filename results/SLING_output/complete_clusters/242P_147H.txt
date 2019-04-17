@@ -1,0 +1,2 @@
+Strain,Upstream_Cluster,Downstream_Cluster,Domain,HMMER_score,Contig,Strand,Hit_length,Hit_start,Hit_stop,Upstream_length,Upstream_delta,Upstream_start,Upstream_stop,Downstream_length,Downstream_delta,Downstream_start,Downstream_stop,Hit,Upstream,Downstream,source
+5235_2#12,242P,-,CcdB,104.3,ERS011997|SC|contig000060,+,104,19198,19512,78,3.0,18959.0,19195.0,0,,,,MQFTVYRNTGKSAIYPLLLDVTSDIIGQLDRRIVIPLLPVDRYPAGRRPDRLIPVVRLTDGQEYAVMTHELASVPVRALGTVFCDASRYRTQVKAAIDFLIDGI,MTAKQRSTQSVTMAVERALLVRAHEAGINLSAILTAALDAELRRYEAKKWQEENREAIDALNRFHDEHGCFSDEYRTF,,both

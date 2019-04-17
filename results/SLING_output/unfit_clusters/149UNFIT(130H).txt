@@ -1,0 +1,8 @@
+##  ID: 149UNFIT(130H)
+##  Num Copies: 1
+##  Domains: Fic
+##  Average Hit Length: 153.0
+##  Average HMMER score: 35.1
+## Reasons: Downstream length,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5193_6#2,149,130H,Fic,35.1,ERS011855|SC|contig000062,+,153,17520,17981,MDDITFNYFDIHHAIRVHDWIIDKTGGLHGIRDQGVLESALDHIQNDWYYPEFVDKLSHLFFAINKFHAFTDGNKRSGIALSTYFLEINGFGHCVQLFVREMENIAVWVADGAIEKELLKNIVHDLILCEEILETTKLNIAIAVMEFDAQRHG,Upstream length,Downstream length

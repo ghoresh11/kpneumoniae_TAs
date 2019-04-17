@@ -1,0 +1,10 @@
+##  ID: 189P
+##  Num Copies: 1
+##  Domains: ParE_toxin
+##  Average Hit Length: 95.0
+##  Average HMMER score: 56.9
+##  Average Delta: 10.0
+##  Average Partner Length: 94.0
+##  Order: Upstream: 0 Downstream: 1
+Strain,Hit_Cluster,Domain,HMMER_score,Order,Contig,Strand,Partner_Length,Delta,Partner_Start,Partner_Stop,Hit_Length,Hit_Start,Hit_Stop,Partner,Sequence,Source
+5151_2#2,82H,ParE_toxin,56.9,downstream,ERS011915|SC|contig000058,-,94,10.0,3605.0,3887.0,95,3897,4184,MRKKLTWLFMFLELCLGISLIIYGLIKYFVKPSVSDNCVEATLCATETISFFTLWIYLTVGVMLICLWYMTTWRAYQHKEKEVKSKLNPEDFVK,MTYTVKFREDALKEWNKLDKTIQQQFAKKLKKCCENPHIPSAKLRGIKDCYKIKLRASGFRLVYQVIDNQLIIAIVAVGKRERSDVYTLASERMK,both

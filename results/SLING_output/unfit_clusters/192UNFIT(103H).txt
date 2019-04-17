@@ -1,0 +1,8 @@
+##  ID: 192UNFIT(103H)
+##  Num Copies: 1
+##  Domains: CcdB
+##  Average Hit Length: 69.0
+##  Average HMMER score: 71.5
+## Reasons: No adjacent downstream ORF,No adjacent upstream ORF
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_5#7,192,103H,CcdB,71.5,ERS011944|SC|contig000426,+,69,9,218,VIPLFLLDEVNGRPARRLTPVLNVDGEDFLVMTHEMASVRQSQLGEEVVSVQEHRQAIKNALDFLLDGF,No adjacent upstream ORF,No adjacent downstream ORF

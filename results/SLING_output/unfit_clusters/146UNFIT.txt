@@ -1,0 +1,8 @@
+##  ID: 146UNFIT
+##  Num Copies: 1
+##  Domains: CbtA_toxin
+##  Average Hit Length: 43.0
+##  Average HMMER score: 44.0
+## Reasons: Downstream length,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5151_5#8,146UNFIT,-,CbtA_toxin,44.0,ERS011945|SC|contig000107,+,43,1495,1624,MLTNFLVNKYELVRIVRRGFSWQEQSLNFQVEDTLRLRQAIGS,Upstream length,Downstream length

@@ -1,0 +1,9 @@
+##  ID: 135UNFIT(17H)
+##  Num Copies: 2
+##  Domains: RelE
+##  Average Hit Length: 63.0
+##  Average HMMER score: 69.7
+## Reasons: ,No adjacent downstream ORF,No adjacent upstream ORF,hit length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5235_2#7,135,17H,RelE,116.9,ERS011992|SC|contig000030,+,97,8386,8679,MRIFKTKWFAREASSHGISDDELYQAIQSALQGKVVDLGGGVYKKRLNKNRDRAIILTKSAEYWFYTFLYAKQDMANINHRELMGFRELAKTLCQSL,No adjacent upstream ORF,No adjacent downstream ORF
+5150_2#1,135,17H,RelE,22.5,ERS005752|SC|contig000080,+,29,8886,8973,MVDLGGGVYKKRLNKNRDRAIILTKSAGY,hit length,

@@ -1,0 +1,9 @@
+##  ID: 32UNFIT(13H)
+##  Num Copies: 2
+##  Domains: Gp49
+##  Average Hit Length: 89.0
+##  Average HMMER score: 39.45
+## Reasons: Downstream length,No adjacent downstream ORF,No adjacent upstream ORF,Upstream length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5235_6#10,32,13H,Gp49,39.2,ERS012031|SC|contig000043,-,89,13072,13339,MWDVETTDTFDAWFELQSRALKEDMLATMLILSEFAPQLGRPYVDTVKDSTFQNMKEFRVQHHGLPIRAFLHLILCGKLSFYVRAIRMA,No adjacent downstream ORF,No adjacent upstream ORF
+5235_2#3,32,13H,Gp49,39.7,ERS011988|SC|contig000079,+,89,7258,7525,MWDVETTDTFDTWFELQSRALKEDMLATMLILSEFAPQLGRPYVDTVKDSTFQNMKELRVQHHGLPIRAFLHLILCGKLSFYVQAIRMA,Upstream length,Downstream length

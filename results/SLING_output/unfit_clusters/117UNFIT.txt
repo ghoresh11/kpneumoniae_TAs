@@ -1,0 +1,8 @@
+##  ID: 117UNFIT
+##  Num Copies: 1
+##  Domains: DUF2442
+##  Average Hit Length: 75.0
+##  Average HMMER score: 55.2
+## Reasons: ,hit length
+Strain,Unfit_Cluster,Hit_Clusters,Domain,HMMER_score,Contig,Strand,Hit_Length,Hit_Start,Hit_Stop,Sequence,Reason1,Reason2
+5150_1#4,117UNFIT,-,DUF2442,55.2,ERS005744|SC|contig000091,+,75,4886,5111,MIRIFKVMYNMWLQLSDGRTLSVPLSYFTSLAGATAEQLAMFELSPCGINWDGLNEDLSLENLLVTQKLQQVRTR,hit length,
